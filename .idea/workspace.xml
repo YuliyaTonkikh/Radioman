@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e164e841-501c-4ff9-adea-ff13159deb6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/RadioTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/Radio.java" afterDir="false" />
     </list>
@@ -51,41 +52,52 @@
       <command value="mvn clesn test" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RadioTest.test15">
-    <configuration name="RadioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RadioTest2.test4">
+    <configuration name="RadioTest2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Radioman" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RadioTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Radioman" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest2" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.test14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioTest2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Radioman" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="test14" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest2" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.test15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioTest2.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Radioman" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="test15" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest2" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest2.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Radioman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest2" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest2.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Radioman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest2" />
+      <option name="METHOD_NAME" value="test7" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,10 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RadioTest.test15" />
-        <item itemvalue="JUnit.RadioTest.test14" />
-        <item itemvalue="JUnit.RadioTest.test" />
-        <item itemvalue="JUnit.RadioTest" />
+        <item itemvalue="JUnit.RadioTest2.test4" />
+        <item itemvalue="JUnit.RadioTest2.test3" />
+        <item itemvalue="JUnit.RadioTest2.test7" />
+        <item itemvalue="JUnit.RadioTest2.test1" />
+        <item itemvalue="JUnit.RadioTest2.test" />
       </list>
     </recent_temporary>
   </component>
