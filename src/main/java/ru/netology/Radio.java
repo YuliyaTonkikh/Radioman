@@ -31,8 +31,9 @@ public class Radio {
         }
         this.currentVolume = currentVolume;
     }
+
     public void next (){
-        if (currentStation != 9){
+        if (currentStation < 9){
             currentStation++;
 
         }else {
@@ -40,8 +41,9 @@ public class Radio {
         }
 
     }
+
     public void prev(){
-        if (currentStation !=0){
+        if (currentStation < 0){
             currentStation--;
         }else currentStation = 9;
 
